@@ -240,6 +240,8 @@
     {
         "title": "Other",
         "symbols": [
+            { "s": "Ñ", "tags": ["spanish", "ene", "n"] },
+            { "s": "ñ", "tags": ["spanish", "ene", "n"] },
             { "s": "§", "tags": ["paragraph"] },
             { "s": "©", "tags": ["copyright"] },
             { "s": "®", "tags": ["registered", "trademark"] },
