@@ -265,7 +265,8 @@
             { "s": "✧", "tags": ["list", "star"] },
             { "s": "⎈", "tags": ["list", "wheel"] },
             { "s": "ㅤ", "tags": ["empty"] },
-            { "s": "⌂", "tags": ["house", "home"] }
+            { "s": "⌂", "tags": ["house", "home"] },
+            { "s": "∗", "tags": ["asterisk"] }
         ]
     }
 ]
