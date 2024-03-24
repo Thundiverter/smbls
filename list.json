@@ -27,7 +27,8 @@
             { "s": "∑", "tags": ["summa", "sigma", "series"] },
             { "s": "Δ", "tags": ["delta"] },
             { "s": "∇", "tags": ["nabla", "del"] },
-            { "s": "—", "tags": ["dash"] }
+            { "s": "—", "tags": ["dash"] },
+            { "s": "⇉", "tags": ["arrows", "uniform", "convergence"] }
         ]
     },
 
