@@ -267,7 +267,8 @@
             { "s": "⎈", "tags": ["list", "wheel"] },
             { "s": "ㅤ", "tags": ["empty"] },
             { "s": "⌂", "tags": ["house", "home"] },
-            { "s": "∗", "tags": ["asterisk"] }
+            { "s": "∗", "tags": ["asterisk"] },
+            { "s": "«»", "tags": ["quote", "quotation", "french"] }
         ]
     }
 ]
